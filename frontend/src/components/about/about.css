@@ -1,0 +1,13 @@
+.about {
+  height: 100vh;
+  width: 100%;
+}
+.about p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+.about h1 {
+  border-bottom: 2px solid;
+  border-color: rgb(42, 165, 79);
+  padding: 5px;
+}

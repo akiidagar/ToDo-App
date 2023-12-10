@@ -1,0 +1,22 @@
+.user-png {
+  width: 30px;
+  height: 30px;
+}
+.navbar-brand {
+  color: rgb(42, 165, 79);
+  font-size: 35px;
+  display: flex !important;
+  justify-content: space-around;
+  align-items: center;
+}
+.btn-nav {
+  background-color: rgb(42, 165, 79);
+  border-radius: 5px;
+  color: white !important;
+  font-weight: bold;
+}
+.log-btn {
+  display: flex !important;
+  justify-content: space-around;
+  align-items: baseline;
+}
